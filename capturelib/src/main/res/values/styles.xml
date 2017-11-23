@@ -1,0 +1,11 @@
+<resources>
+
+<declare-styleable name="CaptureView">
+    <attr name="frame_corner_border_width" format="dimension"/>
+    <attr name="frame_corner_border_length" format="dimension"/>
+    <attr name="frame_corner_color" format="color"/>
+    <attr name="frame_default_size" format="dimension"/>
+    <attr name="frame_min_size" format="dimension"/>
+    <attr name="overlay_color" format="color"/>
+</declare-styleable>
+</resources>
