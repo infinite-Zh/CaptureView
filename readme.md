@@ -39,3 +39,5 @@ var target = shotView.shot(BitmapFactory.decodeResource(resources, R.mipmap.a))
 效果：
 
 ![](screenshot/GIF.gif)
+
+ps:还有点bug，有时间再改.......
