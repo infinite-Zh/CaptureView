@@ -34,6 +34,8 @@ var target = shotView.shot(BitmapFactory.decodeResource(resources, R.mipmap.a))
 |frame_default_size|dimension|取图框默认大小|
 |frame_min_size|dimension|取图框可以缩小的最小尺寸|
 |overlay_color|color|遮罩层颜色|
+
+
 效果：
 
 ![](screenshot/GIF.gif)
